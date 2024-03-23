@@ -1,0 +1,7 @@
+[project]
+name = 'project'
+version = '0.0.1'
+
+[build-system]
+build-backend = 'mesonpy'
+requires = ['meson-python']
